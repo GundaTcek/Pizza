@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    border: solid1px;
+    height: 650px;
+    background: url(bg3.jpg);
+    background-repeat: no-repeat;
+    background-size: 1400px 650px;
+}
+form{
+    margin-left: 850px;
+    width: 500px;
+    margin-top: 50px;
+    padding-left: 10px;
+}
+label{
+    color: aliceblue;
+    font-size: 25px;
+    font-style:italic ;
+}
+h1{
+    color:whitesmoke;
+    font-size: 40px;
+    font-style: oblique;
+    text-align: center;
+}
+input{
+    height: 30px;
+    width: 300px;
+}
+button{
+    height: 30px;
+    width: 120px;
+    background-color: darkgoldenrod;
+    color: beige;
+    font-size: 20px;
+    font-style: italic;
+    border-radius: 20px;
+}
+p{
+    color:aliceblue ;
+    font-size: 25px;
+    font-style: italic;
+}
+p a{
+    color: aliceblue;
+    font-size: 20px;
+}
